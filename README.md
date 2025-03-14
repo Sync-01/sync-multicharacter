@@ -21,7 +21,7 @@ Add This
 ```
 
 ## Screenshots
-![Group 847](https://github.com/P4ScriptsFivem/sync-multicharacter/assets/120780563/9d7d768b-799f-4dfe-9567-62077479db63)
+![Group 847](https://github.com/P4ScriptsFivem/pappu-multicharacter/assets/120780563/9d7d768b-799f-4dfe-9567-62077479db63)
 
 
 ## Installation
