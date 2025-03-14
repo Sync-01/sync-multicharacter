@@ -1,4 +1,4 @@
-# sync-Multicharacter
+# sync-multicharacter
 Multi Character Feature for QBCore Multicharacter And inspired by NoPixel 4.0. 
 
 ## Features
@@ -21,7 +21,7 @@ Add This
 ```
 
 ## Screenshots
-![Group 847](https://github.com/P4ScriptsFivem/pappu-multicharacter/assets/120780563/9d7d768b-799f-4dfe-9567-62077479db63)
+![Group 847](https://github.com/P4ScriptsFivem/sync-multicharacter/assets/120780563/9d7d768b-799f-4dfe-9567-62077479db63)
 
 
 ## Installation
@@ -49,4 +49,4 @@ ensure qb-weathersync
 - [qb-multicharacter](https://github.com/qbcore-framework/qb-multicharacter)
   
 ## License
-[GPL-3.0 license](LICENSE)
+[license](LICENSE)
